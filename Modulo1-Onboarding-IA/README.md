@@ -155,6 +155,8 @@ O caminho consensual entre as fontes leva de **6 a 12 meses**. A ordem recomenda
 
 O NotebookLM gerou automaticamente um **mapa mental** com base nas fontes inseridas, organizando os conceitos em quatro grandes eixos temáticos. As imagens abaixo foram exportadas e salvas no projeto:
 
+| Mapa Mental | [NotebookLM]https://notebooklm.google.com/notebook/1e4d0dfa-29c8-4370-9082-8fb44fca6fd1/artifact/45db3439-0373-450b-a0bf-58c7205b3278?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_).
+
 ### Conceitos Fundamentais da Análise de Dados
 <img src="imgs/conceitos.png" alt="Mapa Mental - Conceitos Fundamentais" width="800"/>
 
